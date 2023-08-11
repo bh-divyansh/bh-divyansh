@@ -9,7 +9,7 @@
 
 - 👯 I’m looking to collaborate on **ML Projects and App dev projects**
 
-- 💫 I'm am excited about **the future of generative AI in India**
+- 💫 I'm excited about **the future of generative AI in India**
 
 - 👨‍💻 All of my projects are available at [http://divyansh.tech](http://divyansh.tech)
 
