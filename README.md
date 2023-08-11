@@ -1,7 +1,7 @@
 <div align="center"><img src="https://blogger.googleusercontent.com/img/a/AVvXsEjmu5PP-BUSX3bdwaMC-RgeB5XQfi57r_VV5VEAePIz6i6L8RcgjVR2lO4SgD3RLNsYeZJzGX1WDJW-fiZqcFl1R6-8ibKTp5fukGKXQZZQfbGQoFzJQMPjJLQdAufFFo8NYC20ocU1MZGjNdVMz9UIKFHRp0baZMicQPWGs0B_hy-4SUMJ6Bm2rpRn7g=s612" width="120" height="120" alt="Profile Image"/></div>
 
 <h1 align="center">Hi 👋, I'm Divyansh Bhandari</h1>
-<h3 align="center">A passionate flutter developer from India</h3>
+<h3 align="center">A flutter developer from India who fell in love with Machine Learning</h3>
 
 <p align="left"> <a href="https://twitter.com/bh_divyansh" target="blank"><img src="https://img.shields.io/twitter/follow/bh_divyansh?logo=twitter&style=for-the-badge" alt="bh_divyansh" /></a> </p>
 
